@@ -1,2 +1,2 @@
-# Hello_world
-Starting project
+Greeding...
+I am Rashid Ud Din Nxr
